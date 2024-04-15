@@ -71,9 +71,9 @@ This Python script enables real-time wildlife animal detection using YOLOv8, an 
    - Releases the webcam and closes the OpenCV window.
 
 This script offers a straightforward approach to detect wildlife animals in real-time, aiding in various conservation and monitoring efforts.
-10.**Animal detection**
+10.**Animal detection**:
 
--Alert is sent through siren.
+-Alert is sent through siren when Animal is detected.
 -Twilio API is integrated to send the messages to the rangers.
 
 
