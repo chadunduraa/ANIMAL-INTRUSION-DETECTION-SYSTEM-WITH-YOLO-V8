@@ -10,6 +10,8 @@ This repository contains scripts for real-time wildlife animal detection using Y
 - Python 3.x
 - OpenCV
 - Ultralytics YOLO package
+- Twilio
+- Siren
   
 ## Dataset
 - https://universe.roboflow.com/machine-train-ur3hn/animals-detection-bsbbi.
